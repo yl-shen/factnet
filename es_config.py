@@ -1,0 +1,10 @@
+ES_IP_LIST = ["ip_1**", "ip_2**"]	
+ES_PORT = "9200"
+ES_USER = "user"
+ES_PASSWARD = "password"
+ES_PAGES_INDEX = "factnet_pages_v1"
+ES_LABELS_INDEX = "factnet_labels_v1"
+ES_FACTSTATEMENT_INDEX = "factnet_factstatements_v1"
+ES_FACTSENSE_INDEX = "factnet_factsense_v1"
+ES_FACTSYNSET_INDEX = "factnet_factsynset_v1"
+ES_SYNSET_RELATIONS_INDEX = "factnet_synset_relations_v1"
