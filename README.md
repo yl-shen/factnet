@@ -293,9 +293,10 @@ This project is licensed under the MIT License.
 If you use FactNet in your research, please cite:
 
 ```bibtex
-@article{factnet2026,
+@article{shen2026factnet,
   title={FactNet: A Billion-Scale Knowledge Graph for Multilingual Factual Grounding},
-  author={...},
+  author={Shen, Yingli and Lai, Wen and Zhou, Jie and Zhang, Xueren and Wang, Yudong and Luo, Kangyang and Wang, Shuo and Gao, Ge and Fraser, Alexander and Sun, Maosong},
+  journal={arXiv preprint arXiv:2602.03417},
   year={2026}
 }
 ```
