@@ -78,7 +78,6 @@ factnet_prj/
 ├── eval_mkqa.py                          # MKQA evaluation script
 ├── eval_mfc.py                           # MFC evaluation script
 ├── es_config.py                          # Elasticsearch configuration
-└── proposal.md                           # Research proposal document
 ```
 
 ## 🚀 Getting Started
