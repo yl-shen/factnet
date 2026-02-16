@@ -21,6 +21,10 @@ FactNet is an open multilingual fact knowledge graph that transforms structured 
 
 The FactSynset layer supports rich inter-synset relations (hypernym, causal, temporal, geographic, etc.) enabling advanced reasoning and cross-lingual fact retrieval.
 
+**Huggingface Collections:** [https://huggingface.co/collections/openbmb/factnet](https://huggingface.co/collections/openbmb/factnet)
+
+**Paper:** [https://arxiv.org/abs/2602.03417](https://arxiv.org/abs/2602.03417)
+
 ## 🏗️ Architecture
 
 ```
